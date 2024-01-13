@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working at C3 <c3.com.mm>
-- 🌱 I’m passionate about augmented reality and cross-platform mobile app
+- 🔭 I’m currently working at 
+- 🌱 I’m passionate about 
 - 📫 How to reach me: DM to htetwailin0001@gmail.com
 - ⚡ Fun fact: ...
 
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=myatnoeaung-dev&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myatnoeaung-dev&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api?username=htetwailin&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htetwailin&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 ## 📖 Read My Blogs:
