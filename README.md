@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Profile](https://img.shields.io/badge/GitHub-htetwailin-%23181717)](https://github.com/htetwailin)
+
 <!--
 **htetwailin/htetwailin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
