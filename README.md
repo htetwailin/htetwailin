@@ -15,17 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/CoYumYum) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/myat-noe-aung-8008a11b2) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/htet-wai-lin-59895a291/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:htetwailin0001@gmail.com?subject=Hello%20Htet,%20From%20Github)
 
 </div>
 
 
 
-- 🔭 I’m currently working at 
-- 🌱 I’m passionate about 
+- 🔭 I’m currently working at CGM Golden Land.
 - 📫 How to reach me: DM to htetwailin0001@gmail.com
 - ⚡ Fun fact: ...
 
@@ -34,18 +31,12 @@ Here are some ideas to get you started:
 
 ## 💻 My Tech Stack:
 
-[![My Tech Stack](https://skillicons.dev/icons?i=flutter,java,kotlin,dart,unity,cs,js,firebase,git,css,aws,html,)]()
+[![My Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,php,java,vue,aws,js,jquery,regex,redis,html,css,bootstrap,mysql,mongodb,git,visualstudio,vscode,postman)]()
 
 ## 🏆 My Stats:
 
 <p>
     <img height=175 src="https://github-readme-stats.vercel.app/api?username=htetwailin&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htetwailin&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
-
-## 📖 Read My Blogs:
-
-<p>
-    <a target="_blank"href="https://myatnoeaung-cosmas.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 </div>
