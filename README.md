@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working at CGM Golden Land (https://cgm-myanmar.com/).
+- 🔭 I’m currently working at CGM Golden Land (https://cgm-myanmar.com).
 - 📫 How to reach me: DM to htetwailin0001@gmail.com
 - ⚡ Fun fact: ...
 
