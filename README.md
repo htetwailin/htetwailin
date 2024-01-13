@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at C3 <c3.com.mm>
 - 🌱 I’m passionate about augmented reality and cross-platform mobile app
-- 📫 How to reach me: DM to myatnoeaung.dev@gmail.com
+- 📫 How to reach me: DM to htetwailin0001@gmail.com
 - ⚡ Fun fact: ...
 
 
