@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working freelancer.
+- 🔭 I’m currently working as a freelancer.
 - 📫 How to reach me: DM to htetwailin0001@gmail.com
 - ⚡ Fun fact: ...
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 💻 My Tech Stack:
 
-[![My Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,php,java,vue,aws,js,jquery,regex,redis,html,css,bootstrap,mysql,mongodb,git,visualstudio,vscode,postman)]()
+[![My Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,windows,vue,react,aws,js,jquery,html,css,bootstrap,mysql,mongodb,git,azure,visualstudio,vscode,postman,github,nginx,regex,redis)]()
 
 ## 🏆 My Stats:
 
